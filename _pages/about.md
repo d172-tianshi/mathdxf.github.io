@@ -13,7 +13,7 @@ My research interests include sparse phase retrieval, high-dimensional convex ge
 
 I am very fortunate to be advised by [Prof. Peng Li](https://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=201) (Associate Professor) of the Institute of Computational Mathematics, [School of Mathematics and Statistics](https://math.lzu.edu.cn/), Lanzhou University.
 
-You can find my CV here: [Marshall Jack's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Marshall Jack's Curriculum Vitae](../assets/Pisier.pdf).
 
 [Email](mailto:d17260643634@163.com) / [Github](https://github.com/d172-tianshi)
 
